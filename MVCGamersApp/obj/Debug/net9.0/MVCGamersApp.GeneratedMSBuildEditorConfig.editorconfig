@@ -28,6 +28,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Gamers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Gamers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Gamers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Gamers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Gamers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
