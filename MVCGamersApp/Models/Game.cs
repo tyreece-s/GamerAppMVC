@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace MVCGamersApp.Models;
 
 // Game.cs
@@ -6,6 +8,8 @@ namespace MVCGamersApp.Models;
 public class Game
 {
     
+    
+    [Key]
     public int Id { get; set; } // Primary key for the Game model.
 
     

@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using MVCGamersApp.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<MVCGamersAppContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("MVCGamersAppContext") ?? throw new InvalidOperationException("Connection string 'MVCGamersAppContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

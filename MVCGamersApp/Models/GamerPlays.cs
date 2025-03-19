@@ -1,3 +1,7 @@
+
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace MVCGamersApp.Models;
 
 // GamerPlays.cs
@@ -6,13 +10,19 @@ namespace MVCGamersApp.Models;
 // about the association between a gamer and the game they play.
 public class GamerPlays
 {
+    
+    [Key] // Primary key for the GamerPlays model.
+    public int Id { get; set; }
+    
     // Foreign key for the Gamer.
+    [ForeignKey("Gamer")]
     public int GamerId { get; set; }
         
     // Navigation property to access the associated Gamer.
     public Gamer Gamer { get; set; }
         
     // Foreign key for the Game.
+    [ForeignKey("Game")]
     public int GameId { get; set; }
         
     // Navigation property to access the associated Game.

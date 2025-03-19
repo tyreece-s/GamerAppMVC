@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace MVCGamersApp.Models;
 
 // Gamer.cs
@@ -6,6 +8,7 @@ namespace MVCGamersApp.Models;
 public class Gamer
 {
     // Primary key for the Gamer model.
+    [Key]
     public int Id { get; set; }
         
     // The game's username.
