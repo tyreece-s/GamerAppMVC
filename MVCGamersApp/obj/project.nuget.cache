@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lwrol+QEQlE=",
+  "dgSpecHash": "xf2ianpIZGg=",
   "success": true,
-  "projectFilePath": "/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/MVCGamersApp.csproj",
+  "projectFilePath": "/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/MVCGamersApp.csproj",
   "expectedPackageFiles": [
     "/Users/tyreece/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/tyreece/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

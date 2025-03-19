@@ -17,61 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCGamersApp
 build_property.RootNamespace = MVCGamersApp
-build_property.ProjectDir = /Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/
+build_property.ProjectDir = /Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp
+build_property.MSBuildProjectDirectory = /Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Games/Create.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Games/Delete.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Games/Details.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Games/Edit.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Games/Index.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Games/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Home/Index.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Home/Privacy.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Shared/Error.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/_ViewImports.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/_ViewStart.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/Views/Shared/_Layout.cshtml]
+[/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z3otb3mqia

@@ -15,5 +15,6 @@ namespace MVCGamersApp.Data
         }
 
         public DbSet<MVCGamersApp.Models.Game> Game { get; set; } = default!;
+        public DbSet<MVCGamersApp.Models.Gamer> Gamer { get; set; } = default!;
     }
 }

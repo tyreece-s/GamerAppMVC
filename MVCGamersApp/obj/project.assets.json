@@ -8011,11 +8011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/MVCGamersApp.csproj",
+      "projectUniqueName": "/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/MVCGamersApp.csproj",
       "projectName": "MVCGamersApp",
-      "projectPath": "/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/MVCGamersApp.csproj",
+      "projectPath": "/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/MVCGamersApp.csproj",
       "packagesPath": "/Users/tyreece/.nuget/packages/",
-      "outputPath": "/Users/tyreece/RiderProjects/MVCGamersApp/MVCGamersApp/obj/",
+      "outputPath": "/Users/tyreece/GitHub/GamerAppMVC/MVCGamersApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tyreece/.nuget/NuGet/NuGet.Config"
